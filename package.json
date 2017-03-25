@@ -1,5 +1,5 @@
 {
-    "name": "xera-manifest",
+    "name": "json-manifest-generator-tool",
     "version": "0.1.0",
     "main": "main.js",
     "scripts": {
