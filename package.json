@@ -2,6 +2,7 @@
     "name": "json-manifest-generator-tool",
     "version": "0.1.0",
     "main": "main.js",
+    "productName": "JSON Manifest Generator Tool",
     "scripts": {
         "start": "electron ."
     },
